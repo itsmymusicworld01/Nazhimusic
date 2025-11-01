@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "apk_download",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
